@@ -1,4 +1,7 @@
 ## Overview
+Basic Representation of Supply Chain
+![alt text](https://github.com/KopiteArnab/temp/blob/096292e9882d7ef000cf447e008fb2c0c82e41ff/pics/Supply_Chain_Overview.jpg)
+
 - Decluttering of supply chain is important process, many times we have multiple **Tier 2** suppliers for our **Tier 1** supplier, we always try to combine business. Having few Tier 2 suppliers will give more control over the supply chain.
 - In case of a reduction in future forecast it is wiser to consolidate business with few best suppliers in advance, then have multiple suppliers.
 - Supplier capabilities are into 2 categories, **Casting** and **Machining**. In case a supplier have both will be taken as fully capable, indication they would not need Tier 2 suppliers.
