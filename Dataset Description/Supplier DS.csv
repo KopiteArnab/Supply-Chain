@@ -1,0 +1,13 @@
+Column Names,Type,Description
+SL no,Text,Serial Number
+Commodity,Text,Defining Non-Ferrous/Ferrous Suppliers
+Supplier Number,Text,Specific Number assigned to each Supplier
+Name,Text,Name Of the Supplier
+Buyer Code,Text,Code assigned to a person who is responsible for the Part and Supplier
+Buyer Name,Text,Name Of the Responsible Buyer
+City Location,Text,Location Of the Supplier
+Strategy Status,Text,Business Growth Strategy with supplier (Go = Grow & NoGo = Not to Grow)
+MSME type,Text,"Micro, Small & Medium Enterprises category of the supplier (Turnover > 100cr)"
+Payment Terms (Days),Text,Payment Release Terms with Supplier
+Casting,Text,If Supplier has Metal Casting Capability
+Machining,Text,If Supplier has Metal Machining Capability

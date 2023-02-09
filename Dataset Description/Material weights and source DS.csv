@@ -1,0 +1,16 @@
+Column Names,Type,Description
+Part no,Text,Unique Identifier of the specific type of manufactured part
+Part Dic.,Text,Description Name of the Part
+Part Family,Text,Family Group the part belongs to
+Casting P/N,Text,Casting Part Number linked to the Final Part
+Casting Source,Text,Source where the casting was done
+Casting Process,Text,Process of casting
+Plant,Text,Manufacturing Plant of the Business Unit
+SupplierNum,Text,Specific Number assigned to each Supplier
+Supplier Name Short,Text,Name Of the Supplier
+Commodity,Text,Defining Non-Ferrous/Ferrous parts
+RM Grade,Text,Raw Material Alloy Grade
+Weight,Number,Weight of the parts per Unit
+Conversion factor (number of parts),Number,Number of parts in one Unit
+System Weight (Kg),Number,Avg Weight per part
+Purchasing group,Text,Code assigned to a person who is responsible for the Part and Supplier
