@@ -36,6 +36,9 @@ NoGo we will not be able to award any business with them. Which puts a good reso
 supplier data as per the current running situation. 
 - Improving the way our visuals interact with each other, and give more exposure to insightful data.
 
+#### Basic Representation of Supply Chain
+(https://github.com/KopiteArnab/temp/blob/main/pics/Supply_Chain_Overview.jpg)
+
 
 
 
