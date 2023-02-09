@@ -1,0 +1,21 @@
+Column Names,Type,Description
+Invoice no.,Text,Unique identifier for the specific invoice entry
+Month,Text,"Month when the invoice was made, defined in Numeric form. Such as 1=Jan, 2= Feb, 3=Mar,... and so on."
+Year,Text,Year when the invoice was made
+BU,Text,Business Unit of the Manufactured Part (Group of Manufacturing plants make a business unit)
+Plant,Text,Manufacturing Plant of the Business Unit
+Part number,Text,Unique Identifier of the specific type of manufactured part
+Description,Text,Description Name of the Part
+MCR Mat.grp.,Text,MCR Material Group the Part Belongs to
+Suppliernumber,Text,Supplier who invoiced the part
+Invoicequantity,Number,Quantity on the parts invoiced in the invoice
+Invoicevalue,Number,Total Value of the invoice value
+Invoice exch.Rate,Number,Currency exchange rate
+Invoicecurrency,Text,Currency of the invoice
+Price per price unit(IST rate),Number,Price of one unit of parts
+Price unit,Number,No of Parts in a Unit
+AVGPrice PY,Number,Average Running price (Planning Year)
+AVG Price PYwithout CE,Number,Average Running price (Planning Year) without Cost Impact
+Type,Text,Type of Invoice
+Purchasinggroup,Text,Code assigned to a person who is responsible for the specific purchase
+Commodity,Text,Commodity Defined
