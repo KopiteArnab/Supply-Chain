@@ -12,8 +12,8 @@ As the collected Data is of different years for multiple Plants grouped by diffe
 ## Dataset Description
 
 - [Supplier Data File](https://github.com/KopiteArnab/Supply-Chain/blob/dc877e82a6f09ece00bf1fc9e2b4d0f896e1d383/csv/Supplier%20data.csv):
-  --The data is specific to our suppliers, thes are the only suppliers we are responsible for and have to focus on.
-  --The data is classified into multiple categories like Commodity,Supplier Number and Name,Buyer Code and Name,MSME,Strategy Status,Payment terms,locations.
+  -The data is specific to our suppliers, thes are the only suppliers we are responsible for and have to focus on.
+  -The data is classified into multiple categories like Commodity,Supplier Number and Name,Buyer Code and Name,MSME,Strategy Status,Payment terms,locations.
 - [Material weights and source Data File](https://github.com/KopiteArnab/Supply-Chain/blob/dc877e82a6f09ece00bf1fc9e2b4d0f896e1d383/csv/Material%20weights%20and%20source.csv)
   The data set consists of part level data with its weight and the source from where our suppliers are getting raw material.
   The data is classified into multiple categories like Part Number,Part Family,Part Weight(System weight),RM Grade,Supplier Number.
