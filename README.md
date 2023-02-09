@@ -10,7 +10,7 @@ The Accounts Department of the Company maintains the invoice level details of al
 As the collected Data is of different years for multiple Plants grouped by different Business Units. The parts are either made of Aluminium or Ferrous of different raw material grade alloys, with the source being either Tier 1 supplier or Tier 2 supplier. Considering all these factors, create a dashboard which is insightful on all these factors and can help the Procurement Department make better supply chain strategic decisions.
 
 ## Overview
-⋅⋅⋅Decluttering of supply chain is important process, many times we have multiple Tier 2 suppliers for our Tier 1 supplier, we always try to combine business. Having few Tier 2 suppliers will give more control over the supply chain.
+...Decluttering of supply chain is important process, many times we have multiple Tier 2 suppliers for our Tier 1 supplier, we always try to combine business. Having few Tier 2 suppliers will give more control over the supply chain.
 ⋅⋅⋅In case of a reduction in future forecast it is wiser to consolidate business with few best suppliers in advance, then have multiple suppliers.
 ⋅⋅⋅Supplier capabilities are into 2 categories, Casting and Machining. In case a supplier have both will be taken as fully capable, indication they would not need Tier 2 suppliers.
 ⋅⋅⋅A group of similar parts are combined into one "Part Family" and combination of many part families create the final product. Multiple suppliers supplying same part families create competition, this competition will help reduce prices and increase business with the cheapest supplier.
