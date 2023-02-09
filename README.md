@@ -37,7 +37,7 @@ supplier data as per the current running situation.
 - Improving the way our visuals interact with each other, and give more exposure to insightful data.
 
 #### Basic Representation of Supply Chain
-https://raw.githubusercontent.com/KopiteArnab/temp/main/pics/Supply_Chain_Overview.jpg
+[https://raw.githubusercontent.com/KopiteArnab/temp/main/pics/Supply_Chain_Overview.jpg](https://github.com/KopiteArnab/temp/blob/main/pics/Supply_Chain_Overview.jpg?raw=true)
 
 
 
