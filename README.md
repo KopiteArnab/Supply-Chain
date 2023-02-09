@@ -37,7 +37,7 @@ supplier data as per the current running situation.
 - Improving the way our visuals interact with each other, and give more exposure to insightful data.
 
 #### Basic Representation of Supply Chain
--[Output](https://user-images.githubusercontent.com/93368813/210611558-2e8a416a-bdd6-4c77-a01e-8ef9c2b5919b.png)
+![alt text](https://user-images.githubusercontent.com/93368813/210611558-2e8a416a-bdd6-4c77-a01e-8ef9c2b5919b.png)
 
 
 
