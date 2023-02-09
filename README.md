@@ -17,9 +17,9 @@ As the collected Data is of different years for multiple Plants grouped by diffe
 - Raw Material Grade is a way of classifying metals.There can be different types of metal alloys, which will be classified with a standard names.
 Ferrous Commodity will have different types of Raw material grades than Non-Ferrous.
 - MSME categories are basically divided into 3 sections
-- - Micro 
-- - Small
-- - Medium
+   Micro 
+   Small
+   Medium
 - Any MSME type suppliers must be paid within 45 days as per government rules. Non-MSME companies are considered as Big companies, where this MSME rule don't apply.
 - As we don't have any payment terms restrictions for Non-MSME suppliers. We can target those suppliers and increase our payment terms, in turn increasing cash flow in our company(indirect savings).
 - Payment Terms that Supplier and the Buyer have agreed on.Number of days mentioned in Payment terms decides when the payment will be made to the supplier after the date of invoice.
@@ -28,8 +28,8 @@ Ferrous Commodity will have different types of Raw material grades than Non-Ferr
 NoGo we will not be able to award any business with them. Which puts a good resourceful suppliers growth on hold.
 - Strategy Status  is an internally defined classification for suppliers to decide future business prospects.
 - Go/NoGo-Defines if its wise for the company to grow(increase) more business with the Supplier based on Contracts,Insurance,Financial Risk,Internal Business plan and Supplier Dependency.
-- - Go - can Grow business
-- - NoGo - Not to Grow business
+   Go - can Grow business
+   NoGo - Not to Grow business
 - Please note that will always filters any buyer code from the Supplier data table only. Every Buyer is assigned with a buyer code till his time in the company.
 - In case of a supplier handover to a different buyer, the buyer code related to that supplier also changes.
 - In this case one supplier can have different buyer codes (Purchasing Group) during the years. So to avoid confusion we always use buyer code from
