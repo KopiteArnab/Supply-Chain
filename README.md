@@ -24,11 +24,11 @@ As the collected Data is of different years for multiple Plants grouped by diffe
   - The data is classified into multiple categories like BU(Business Unit), MCR Material Group, Supplier Number,Invoice Quantity,Invoice Value,Purchasing Group(Buyer     Group).
 
 ## Entity Relationship Diagram
-![alt text]
+![alt text](https://github.com/KopiteArnab/Supply-Chain/blob/a89f18325f34c661d786e534f1cc5344fde7e387/ERD.jpg)
 
 ## Report
-![alt text]
-![alt text]
+![alt text](https://github.com/KopiteArnab/Supply-Chain/blob/a89f18325f34c661d786e534f1cc5344fde7e387/Supply%20Chain_Analysis_page-01.jpg)
+![alt text](https://github.com/KopiteArnab/Supply-Chain/blob/a89f18325f34c661d786e534f1cc5344fde7e387/Supply%20Chain_Analysis_page-02.jpg)
 
 
 
