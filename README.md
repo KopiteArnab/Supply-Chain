@@ -9,6 +9,7 @@ The Accounts Department of the Company maintains the invoice level details of al
 
 ## Problem Description
 As the collected Data is of different years for multiple Plants grouped by different Business Units. The parts are either made of Aluminium or Ferrous of different raw material grade alloys, with the source being either Tier 1 supplier or Tier 2 supplier. Considering all these factors, create a dashboard which is insightful on all these factors and can help the Procurement Department make better supply chain strategic decisions.
+* [Data Analysis Question & Answers]
 
 ## Dataset Description
 
@@ -22,6 +23,12 @@ As the collected Data is of different years for multiple Plants grouped by diffe
   - The data set is a collection of invoice records(Billing data) of the payments made to supplier
   - The data is classified into multiple categories like BU(Business Unit), MCR Material Group, Supplier Number,Invoice Quantity,Invoice Value,Purchasing Group(Buyer     Group).
 
+## Entity Relationship Diagram
+![alt text]
+
+## Report
+![alt text]
+![alt text]
 
 
 
