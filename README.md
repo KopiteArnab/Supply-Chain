@@ -9,7 +9,7 @@ The Accounts Department of the Company maintains the invoice level details of al
 
 ## Problem Description
 As the collected Data is of different years for multiple Plants grouped by different Business Units. The parts are either made of Aluminium or Ferrous of different raw material grade alloys, with the source being either Tier 1 supplier or Tier 2 supplier. Considering all these factors, create a dashboard which is insightful on all these factors and can help the Procurement Department make better supply chain strategic decisions.
-* [Data Analysis Question & Answers]
+* [Data Analysis Question & Answers](https://github.com/KopiteArnab/Supply-Chain/blob/b75300befbb17cfb2b35d00d7c30942416f4297d/questions_and_answers.md)
 
 ## Dataset Description
 
